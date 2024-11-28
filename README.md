@@ -4,6 +4,7 @@ uses :
 #HTML
 #PHP
 #JS
+#JSON
 
 This HTML - PHP - JS code can be used to easy implement a SELECT form field where you want any country and then Any state of that country 
 the simple json format where the options are Pre Optioned and just need to be print or inserted into the HTML
@@ -34,3 +35,6 @@ the simple json format where the options are Pre Optioned and just need to be pr
 }
 
 ```
+
+the Example_Location.php + Options.json can be run directly and is a functioning form that can be posted to try it 
+the Barebones.php + Options.json file is all thats needed to make it work 
